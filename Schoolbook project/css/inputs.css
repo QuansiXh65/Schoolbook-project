@@ -1,0 +1,31 @@
+form  {
+    /*justify-content: right;*/
+    /*flex-direction: row;*/
+}
+
+.upld-frm{
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*justify-content: center;*/
+    margin-left: 40vw;
+}
+
+label {
+    display: table-cell;
+}
+
+input {
+    border-radius: 8px;
+    padding: 5px;
+    /*display: table-cell;*/
+}
+
+.send{
+    background: #f7fcff;
+    border: black solid 2px;
+}
+
+.send :hover{
+    color: #3a3a3a;
+}
+

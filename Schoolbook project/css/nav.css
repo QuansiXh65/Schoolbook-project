@@ -1,0 +1,46 @@
+.sb{
+    font-family: Arial Arial Narrow, sans-serif;
+    color: white;
+    font-size: large;
+    font-weight: 800;
+}
+
+.sb:hover{
+    color: white;
+    font-weight: 800;
+}
+
+.menu {
+    padding-top: 13px;
+    padding-bottom: px;
+    /*margin-top: 15px;*/
+    /*margin-bottom: 15px;*/
+    background: #119eff;
+
+    font-family: Arial Arial Narrow, sans-serif;
+    font-size: medium;
+}
+
+nav ul li {
+    justify-content: space-evenly;
+    /*list-style: none;*/
+    display: inline;
+}
+
+nav ul li a {
+    border-radius: 3px;
+    padding: 3px;
+
+    font-family: Gill Sans, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+
+    color: black;
+    justify-content: space-evenly;
+
+}
+
+nav ul li a:hover{
+    color: white;
+    font-weight: 770;
+}

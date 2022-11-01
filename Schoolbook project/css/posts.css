@@ -1,0 +1,46 @@
+.h2p{
+    text-align: center;
+    font-family: Arial;
+    /*font-weight: 500;*/
+}
+
+.posts{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    margin-right: 36vw;
+    margin-left: 36vw;
+}
+
+tbody{
+    text-align: center;
+    padding: 40px;
+}
+
+.box{
+    background: white;
+    /*display: flex;*/
+    /*justify-content: center;*/
+    /*font-family: "Gill Sans, sans-serif";*/
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    border: #b3d7ff solid 3px;
+    border-radius: 10px;
+    width: 425px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.box tr td{
+    /*font-family: "Gill Sans, sans-serif";*/
+}
+
+.box td{
+    /*font-family: "Gill Sans, sans-serif"*/
+}
+
+.image{
+    max-width: 400px;
+}
+

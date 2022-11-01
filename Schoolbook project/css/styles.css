@@ -1,0 +1,51 @@
+body{
+    /*background-image: url("../img/monochromeBG.jpg");*/
+    /*background-repeat: repeat-y;*/
+    /*background-size: contain;*/
+    /*!*background-image: cross-fade( url("../img/monochromeBG.jpg") 25%, url("../img/monochromeBG.jpg") 75%);*!*/
+    background-color: #ececec;
+}
+
+.welcome{
+    font-family: Verdana;
+    font-weight: 250;
+}
+
+.bttns{
+    background-color: #ffffff;
+    color: #3a3a3a;
+    border-color: #3a3a3a;
+
+    font-weight: 600;
+    border-radius: 5px;
+    padding: 3px;
+
+}
+
+.likebtn{
+    font-family: Arial;
+    font-weight: 600;
+    color: white;
+    background-color: #5698ff;
+    border-color: #5698ff;
+    border-width: 0px;
+    border-radius: 10px;
+    padding: 3px;
+}
+
+.likebtn:hover{
+
+}
+
+.cmmnt-link{
+    text-decoration: none;
+    font-family: Arial;
+    font-weight: 500;
+
+    color: #7491bb;
+}
+
+.cmmnt-link:hover{
+    color: #a2a2a2;
+    text-decoration: none;
+}
